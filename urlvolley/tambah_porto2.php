@@ -1,15 +1,5 @@
 <?php
-    //include 'api/config.php';
-    //include '../api/class_user.php';
-    //$user = new User();
-    //session_start();
-    
-    //session_start();
-    //if(!isset($_SESSION["login"])){
-    //    header('location: admin_index.php');
-    //    exit;
-    //}
-
+    //a radio button group gets unchecked when checking other radio on next form/input nilai kd
     include "../admin/layout/js_script.php";
     
     $con=mysqli_connect("localhost","id15532618_root","Sakura2020.21","id15532618_eporto");
